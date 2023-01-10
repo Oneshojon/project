@@ -1,3 +1,7 @@
 I have added a file
 This was modified in remote
+<<<<<<< HEAD
 remote-local "local"
+=======
+remote-local modifying remote
+>>>>>>> b93cfc8cb538cc69ab4a2572d428217e712d56f6
