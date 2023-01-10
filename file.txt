@@ -1,2 +1,3 @@
 I have added a file
 This was modified in remote
+remote-local modifying remote
